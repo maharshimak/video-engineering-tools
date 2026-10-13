@@ -1,0 +1,1 @@
+# Standard library only. imgdims optionally uses Pillow if already installed.

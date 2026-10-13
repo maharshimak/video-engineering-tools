@@ -1,0 +1,1 @@
+The selected source has direct prior Codex Add File creation evidence in the user's own audit sessions, recorded in the local migration provenance manifest. This supports authorship and upload rights for these original generated helpers. No third-party sources or assets are included. No permissive license is assigned; rights remain reserved. Intended visibility is public.

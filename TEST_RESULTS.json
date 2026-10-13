@@ -1,0 +1,14 @@
+{
+  "checks": [
+    {
+      "name": "Package-local unittest suite",
+      "status": "PASS",
+      "tests": 4,
+      "command": "python -B -m unittest -v"
+    }
+  ],
+  "not_run": [],
+  "initial_environment_failures": [
+    "Initial default OS temporary directory permissions denied fixture creation; tests changed to repository-local ignored temporary fixtures."
+  ]
+}
